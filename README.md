@@ -6,7 +6,7 @@ This project involved building an end-to-end data analytics and business intelli
 • R <br>
 • DAX <br>
 ### Key Tasks Performed
-•Built interactive Power BI dashboards to analyze product performance, customer behavior, and regional trends <br>
+•Developed interactive Power BI multi-page report to analyze product performance, customer behavior, and regional trends <br>
 • Designed a star schema data model <br>
 • Developed DAX measures for revenue, profit, and growth metrics <br>
 • Performed data cleaning and transformation <br>
@@ -14,8 +14,8 @@ This project involved building an end-to-end data analytics and business intelli
 • Approximately 65% year-over-year revenue growth, 41.51% profit margin <br>
 • Identified top-performing regions and product categories <br>
 ### Report Preview
-![Dashboard](files/executive-summary.png)
-![Dashboard](files/revenue-over-time.png)
-![Dashboard](files/revenue-by-segment.png)
-![Dashboard](files/customer-insights.png)
-![Dashboard](files/product-performance.png)
+![Report](files/executive-summary.png)
+![Report](files/revenue-over-time.png)
+![Report](files/revenue-by-segment.png)
+![Report](files/customer-insights.png)
+![Report](files/product-performance.png)
